@@ -73,8 +73,3 @@ Worked on CI/CD tools like Jenkins and Gitlab CI.</p>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
   </tr>
 </table>
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](zhenghu61919@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-c14438?style=flat-square&logo=Telegram&logoColor=red)](https://t.me/tzztson)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hu-zheng-1a0062218)
-[![Skype](https://img.shields.io/badge/-Skype-c14438?style=flat-square&logo=Skype&logoColor=blue)](https://join.skype.com/invite/w9SzWeEJnGt9)
