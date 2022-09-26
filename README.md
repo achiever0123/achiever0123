@@ -20,9 +20,22 @@ Built NFT and DEFI platforms.</p>
 
 <h2>WORK EXPERIENCE</h2>
 <p> - Senior Full Stack Engineer</p>
-<p>  Nettle
-Mar 2021 - Mar 2022 (1 year 1 month) Created frontend using Next, Nuxt. Used Web3 to interact with Blockchain. Developed Smart Contracts.
+<p>  Nettle </p>
+<p>Mar 2021 - Mar 2022 (1 year 1 month)</p> 
+<p>Created frontend using Next, Nuxt. Used Web3 to interact with Blockchain. Developed Smart Contracts.
 Built NFT and DEFI platforms.</p>
+
+<h2>Senior Full Stack Engineer</h2>
+<p> - Pixlee TurnTo</p>
+<p>Mar 2018 - Mar 2021 (3 years 1 month)</p>
+<p>Involved in the Software Development Life Cycle(SLDC): Requirements gathering, Design, Code, Integration and Development and Production phases.
+Designed & developed front end using Bootstrap, Tailwind, Vue, Angular, React, Nuxt, Next and so on. Developed RESTful web services using MERN stack.
+Implemented asynchronous logic for CRUD operation in MongoDB using mongoose connector, and assertions.
+Implemented JavaScript and TypeScript style guide and best practices so that it can be reusable across projects.
+Followed SASS and BEM notation for maintaining styles across application.
+Used Jest and Cypress for automated testing.
+Implemented Npm, Yarn and Webpack setup for building and automating processes such as linting. Used Git for version control and best practices for handling pre-commit hooks.
+Worked on CI/CD tools like Jenkins and Gitlab CI.</p>
 <p></p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
