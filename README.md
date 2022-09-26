@@ -73,3 +73,8 @@ Worked on CI/CD tools like Jenkins and Gitlab CI.</p>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
   </tr>
 </table>
+
+
+-----
+
+### :fire: My Stats :
