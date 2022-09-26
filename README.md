@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="center">
   <a href="https://github.com/tzztson"><img src="https://readme-typing-svg.herokuapp.com?font=Limelight&size=40&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=FULL-STACK+WEB+%26+BLOCKCHAIN+ENGINEER;%5BT%5Dalnted%2C+%5BO%5Drganized%2C++%5BP%5Dassionate" alt="Typing SVG" /></a>
 
