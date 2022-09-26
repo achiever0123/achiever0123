@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="center">
-  <a href="https://github.com/tzztson">FULL STACK & BLOCKCHAIN ENGINEER</a>
+  <a href="https://github.com/tzztson"><h1>FULL STACK & BLOCKCHAIN ENGINEER</h1></a>
 
 </p>
 <p align="center">
