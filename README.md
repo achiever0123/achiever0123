@@ -6,12 +6,7 @@
 <p align="center">
  💎 💎 💎 
 </p>
-<p>Senior Full Stack Engineer
-Nettle
-Mar 2021 - Mar 2022 (1 year 1 month) Created frontend using Next, Nuxt. Used Web3 to interact with Blockchain. Developed Smart Contracts.
-Built NFT and DEFI platforms.</p>
 
-<!-- ## Hi 👋, I'm an EXPERIENCED WEB DEVELOPER adept in all stages of advanced web development. -->
 
 <h2>SUMMARY</h2>
 <p>Creative Full Stack Developer with 7+ years of experience designing, developing, testing and managing websites. Strong experience in developing SPA and mobile web-related applications. Highly expertise in modern web architecture using advanced libraries and frameworks like React, Vue, Angular, Nuxt, Next, Express, Nest and so on. Deep understanding in TypeScript, ES5, ES6, and ES7. Expert in Responsive web design using Bootstrap and Tailwind. Strong experience in Git, Npm and Yarn. Capable of testing with Jest and Cypress.</p>
