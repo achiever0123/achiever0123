@@ -12,28 +12,48 @@
 <p>Creative Full Stack Developer with 7+ years of experience designing, developing, testing and managing websites. Strong experience in developing SPA and mobile web-related applications. Highly expertise in modern web architecture using advanced libraries and frameworks like React, Vue, Angular, Nuxt, Next, Express, Nest and so on. Deep understanding in TypeScript, ES5, ES6, and ES7. Expert in Responsive web design using Bootstrap and Tailwind. Strong experience in Git, Npm and Yarn. Capable of testing with Jest and Cypress.</p>
 
 <h2>WORK EXPERIENCE</h2>
-<h3> - Senior Full Stack Engineer</h3>
-<p>  Nettle </p>
-<p>Mar 2021 - Mar 2022 (1 year 1 month)</p> 
-<p>Created frontend using Next, Nuxt. Used Web3 to interact with Blockchain. Developed Smart Contracts.
-Built NFT and DEFI platforms.</p>
-
 <h3>Senior Full Stack Engineer</h3>
+<p> - ECapture Inc </p>
+<p>Mar 2020 - Dec 2022</p> 
+<p>
+•Created a Home renting website with React and Node.js/Express.js. Created API endpoints based on Swagger.
+•Used social media APIs such as Twitter Search API and Youtube Data API to crawl data.
+•Worked with Front, and Back-end developers.
+•Developed and launched a UI kit shared for several projects and used by many programmers.
+•Integrated React with the projects and built some features with it.
+•Constantly worked to redesign and update the front-end part of several major web portals for A/B testing and an improved user interface.
+•Created HTML pages from PSD mockups for several major web portals.
+•Integrated and customized Less preprocessor with the projects.
+•Created custom jQuery plugins for business needs.
+•Managed several domains with AWS Route 53.
+</p>
+
+<h3>Senior Front-end Engineerr</h3>
 <p> - Pixlee TurnTo</p>
-<p>Mar 2018 - Mar 2021 (3 years 1 month)</p>
-<p>Involved in the Software Development Life Cycle(SLDC): Requirements gathering, Design, Code, Integration and Development and Production phases.
-Designed & developed front end using Bootstrap, Tailwind, Vue, Angular, React, Nuxt, Next and so on. Developed RESTful web services using MERN stack.
-Implemented asynchronous logic for CRUD operation in MongoDB using mongoose connector, and assertions.
-Implemented JavaScript and TypeScript style guide and best practices so that it can be reusable across projects.
-Followed SASS and BEM notation for maintaining styles across application.
-Used Jest and Cypress for automated testing.
-Implemented Npm, Yarn and Webpack setup for building and automating processes such as linting. Used Git for version control and best practices for handling pre-commit hooks.
-Worked on CI/CD tools like Jenkins and Gitlab CI.</p>
+<p>Mar 2018 - Feb 2020</p>
+<p>
+•Developed two Real Estate Websites using ReactJs and VueJS as a javascript framework.
+•Participated in pair programming with 3 engineers, and reviewed the team’s code to provide additional perspective and catch previously missed errors.
+•Worked with Quality Assurance to get new pages/products tested, and addressed any issues within 48 hours.
+•Designed and implemented web applications along with 3rd-party software integrations as a web team liaison for all inter-departmental and customer-facing projects.
+•Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences •Developed E-commerce sites, Sports sites with Codeigniter, Zend, Spring Framework, and React
+</p>
 
 <h3>Frontend Developer</h3>
-<p>Altitude-sports.com</p>
-<p>Sep 2016 - Mar 2018 (1 year 7 months)</p>
-<p>Implemented lots of reusable components. Experienced Jest and Cypress for automated testing. Used Git for version control and deployment.</p>
+<p>Pixlee TurnTo</p>
+<p>Sep 2013 - Jan 2018</p>
+<p>
+•Worked as a lead UI/UX developer and collaborated with the product owner, marketing team, and designer to clarify requirements.
+•Customized Bootstrap variables and configurations based on the designer’s style guide.
+•Developed a single-page application with React, focusing on mobile responsiveness.
+•Used AWS CloudFront as cached content for a fast content delivery network of videos and images between browsers and AWS S3.
+•Developed the front end of a React/Next.js web application.
+•Translated Zeplin designs into working boilerplate, complete with responsiveness, SVG animations, and functionality.
+•Published and integrated npm modules for reusable components used across different platforms. •Validated client-side user actions using a Reactive form.
+•Wrote non-blocking code and resorted to advanced techniques such as multithreading when needed. •Build fully automated CI/CD pipelines on CircleCI for containerized applications using Docker and AWS. •Project Link
+https://www.soundtrap.com/
+https://www.giovvani.com/
+</p>
 <p></p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
