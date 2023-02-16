@@ -9,50 +9,52 @@
 
 
 <h2>SUMMARY</h2>
-<p>Creative Full Stack Developer with 7+ years of experience designing, developing, testing and managing websites. Strong experience in developing SPA and mobile web-related applications. Highly expertise in modern web architecture using advanced libraries and frameworks like React, Vue, Angular, Nuxt, Next, Express, Nest and so on. Deep understanding in TypeScript, ES5, ES6, and ES7. Expert in Responsive web design using Bootstrap and Tailwind. Strong experience in Git, Npm and Yarn. Capable of testing with Jest and Cypress.</p>
+<p>Senior software engineer with a bachelor’s in computer science and 10+ years of experience at companies.
+Highly motivated and professional with 10+ years of IT experience, including 8 years of experience in developing modern web applications using React.JS, and Vue and 6+ years of experience in Angular9+ & Angular8+ and Development, and 4 years of experience in Node.
+As an enthusiastic and creative technologist with hands-on skills in a wide range of software, tools, and programming languages, I am well positioned to leverage my abilities and qualifications to thrive as the next Front-end Developer.
+Over the past 10 years, as a Front-end Developer, I have designed, developed, and launched customized, highly responsive websites and e-commerce solutions using advanced technologies. In addition, I have consistently met client expectations and project milestones while working effectively in deadline-driven environments.</p>
 
 <h2>WORK EXPERIENCE</h2>
-<h3>Senior Full Stack Engineer</h3>
-<p> - ECapture Inc </p>
-<p>Mar 2020 - Dec 2022</p> 
+<h3>Senior Front-end Engineer</h3>
+<p> - HealthRhythms </p>
+<p>Aug 2017 – Dec 2022</p> 
 <p>
-•Created a Home renting website with React and Node.js/Express.js. Created API endpoints based on Swagger.
-•Used social media APIs such as Twitter Search API and Youtube Data API to crawl data.
-•Worked with Front, and Back-end developers.
-•Developed and launched a UI kit shared for several projects and used by many programmers.
-•Integrated React with the projects and built some features with it.
-•Constantly worked to redesign and update the front-end part of several major web portals for A/B testing and an improved user interface.
-•Created HTML pages from PSD mockups for several major web portals.
-•Integrated and customized Less preprocessor with the projects.
-•Created custom jQuery plugins for business needs.
-•Managed several domains with AWS Route 53.
+•Worked as a team player in an agile team and served as a solution architect to build a clinical dashboard.
+•Improved tools to boost user interaction and deliver design versatility with product managers and increased product performance by 30%.
+•Teamed on user-centric design strategy in the translation of UX and business requirements into coded solutions.
+•Made recommendations for new technology integration based on suitability and alignment with business goals.
 </p>
 
-<h3>Senior Front-end Engineerr</h3>
-<p> - Pixlee TurnTo</p>
-<p>Mar 2018 - Feb 2020</p>
+<h3>Front-end Engineer</h3>
+<p> - breathing.ai</p>
+<p>Aug 2015 – Jun 2017</p>
 <p>
-•Developed two Real Estate Websites using ReactJs and VueJS as a javascript framework.
-•Participated in pair programming with 3 engineers, and reviewed the team’s code to provide additional perspective and catch previously missed errors.
-•Worked with Quality Assurance to get new pages/products tested, and addressed any issues within 48 hours.
-•Designed and implemented web applications along with 3rd-party software integrations as a web team liaison for all inter-departmental and customer-facing projects.
-•Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences •Developed E-commerce sites, Sports sites with Codeigniter, Zend, Spring Framework, and React
+•Took the lead on creating a visually pleasing and performant website using Gatsby to market and showcase the breathing.ai Chrome extension.
+•Implemented additional functionality to the Chrome extension using React and JavaScript to provide users with healthier screen time.
+•Optimized website performance, Search Engine Optimization, and implemented the functionality to add blog posts to the website using the Contentful CMS.
+•Enhanced website user accessibility to a broader audience by incorporating Spanish localization using i18next.
+•Coordinated with the UI/UX team using Figma to drive the development and communication of clear design guidelines, patterns, and assets.
 </p>
 
 <h3>Frontend Developer</h3>
-<p>Pixlee TurnTo</p>
-<p>Sep 2013 - Jan 2018</p>
+<p>Giovvani</p>
+<p>Jul 2013 – Jun 2015</p>
 <p>
-•Worked as a lead UI/UX developer and collaborated with the product owner, marketing team, and designer to clarify requirements.
-•Customized Bootstrap variables and configurations based on the designer’s style guide.
-•Developed a single-page application with React, focusing on mobile responsiveness.
-•Used AWS CloudFront as cached content for a fast content delivery network of videos and images between browsers and AWS S3.
-•Developed the front end of a React/Next.js web application.
-•Translated Zeplin designs into working boilerplate, complete with responsiveness, SVG animations, and functionality.
-•Published and integrated npm modules for reusable components used across different platforms. •Validated client-side user actions using a Reactive form.
-•Wrote non-blocking code and resorted to advanced techniques such as multithreading when needed. •Build fully automated CI/CD pipelines on CircleCI for containerized applications using Docker and AWS. •Project Link
-https://www.soundtrap.com/
-https://www.giovvani.com/
+•Worked as a lead UI/UX developer for the Shopify project and collaborated with the product owner, marketing team, and designer to clarify requirements.
+•Developed company website with Figma design with liquid on online & offline Editor.
+•Optimized website performance, and Shopify SEO.
+•Built a custom Shopify App interacting with third party APIs such as Klaviyo.
+</p>
+
+<h3>Frontend Developer</h3>
+<p>Piicked</p>
+<p>Jan 2012 – May 2013</p>
+<p>
+•Developed the company website from designing mockups to the deployment stage based on the expected user experience and business logic brainstormed with the CEO/CTO.
+•Utilized React to build a stable, maintainable, and responsive single-page application (SPA). Implemented Redux into the web app for state management.
+•Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences for the users.
+•Designed and implemented HTML email templates and newsletters for marketing campaigns.
+•Contribute with the team on product roadmap discussions.
 </p>
 <p></p>
 
