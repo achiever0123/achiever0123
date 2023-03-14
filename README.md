@@ -16,7 +16,7 @@ Over the past 10 years, as a Front-end Developer, I have designed, developed, an
 
 <h2>WORK EXPERIENCE</h2>
 <h3>Senior Front-end Engineer</h3>
-<p> - HealthRhythms </p>
+<p> - Katalyst </p>
 <p>Aug 2017 – Dec 2022</p> 
 <p>
 •Worked as a team player in an agile team and served as a solution architect to build a clinical dashboard.
