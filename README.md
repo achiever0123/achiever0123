@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center"><a href="https://github.com/achiever0123">SENIOR FRONTEND ENGINEER</a></h1>
+  <h1 align="center"><a href="https://github.com/achiever0123">SENIOR Full Stack ENGINEER</a></h1>
 
 </p>
 <p align="center">
@@ -9,53 +9,41 @@
 
 
 <h2>SUMMARY</h2>
-<p>Senior software engineer with a bachelor’s in computer science and 10+ years of experience at companies.
-Highly motivated and professional with 10+ years of IT experience, including 8 years of experience in developing modern web applications using React.JS, and Vue and 6+ years of experience in Angular9+ & Angular8+ and Development, and 4 years of experience in Node.
-As an enthusiastic and creative technologist with hands-on skills in a wide range of software, tools, and programming languages, I am well positioned to leverage my abilities and qualifications to thrive as the next Front-end Developer.
-Over the past 10 years, as a Front-end Developer, I have designed, developed, and launched customized, highly responsive websites and e-commerce solutions using advanced technologies. In addition, I have consistently met client expectations and project milestones while working effectively in deadline-driven environments.</p>
+<p>Self-motivated Full Stack developer with 10 years of experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Experience includes collaborating in team-driven environments to create high-performance web applications that customers and businesses love.</p>
 
 <h2>WORK EXPERIENCE</h2>
-<h3>Senior Front-end Engineer</h3>
-<p> - Katalyst </p>
-<p>Aug 2017 – Dec 2022</p> 
+<h3>Senior Full Stack Engineer</h3>
+<p> - Albet </p>
+<p>Jul 2020 – Mar 2023</p> 
 <p>
-•Worked as a team player in an agile team and served as a solution architect to build a clinical dashboard.
-•Improved tools to boost user interaction and deliver design versatility with product managers and increased product performance by 30%.
-•Teamed on user-centric design strategy in the translation of UX and business requirements into coded solutions.
-•Made recommendations for new technology integration based on suitability and alignment with business goals.
+•Built and maintained large-scale applications using ReactJS, Angular, Vue, Node/ExpressJS, Laravel, MySQL, and MongoDB from scratch resulting in a 20% increase in application productivity and a 15% increase in conversion rates.
+•Led a team of 5 developers in delivering several high-visibility projects, including a mobile-first redesign of the website and a real-time product customization tool.
+•Learn and adopt cutting-edge new technologies into our project: Implement Typescript on server environment by re-writing the whole backend project. Implementing testing case and automation testing workflows using Jest, Mocha, Jasmine, Cypress, etc. 
+•Extensive interaction with the clients on requirement gathering and estimation on Sprint planning and user stories tracked in Agile methodology with Jira, Trello, etc.
 </p>
 
-<h3>Front-end Engineer</h3>
-<p> - breathing.ai</p>
-<p>Aug 2015 – Jun 2017</p>
+<h3>Senior Full Stack Engineer</h3>
+<p> - Axim</p>
+<p>Jul 2017 – Jun 2020</p>
 <p>
-•Took the lead on creating a visually pleasing and performant website using Gatsby to market and showcase the breathing.ai Chrome extension.
-•Implemented additional functionality to the Chrome extension using React and JavaScript to provide users with healthier screen time.
-•Optimized website performance, Search Engine Optimization, and implemented the functionality to add blog posts to the website using the Contentful CMS.
-•Enhanced website user accessibility to a broader audience by incorporating Spanish localization using i18next.
-•Coordinated with the UI/UX team using Figma to drive the development and communication of clear design guidelines, patterns, and assets.
+•Developed and maintained e-commerce & healthcare platform using React, Angular, NodeJS, MySQL, and MongoDB.
+•Collaborated with a team of 10 developers to deliver the project on time and within budget, while ensuring high quality and maintainability.
+•Implemented advanced features such as real-time streaming, client-side form validation, robust error handling, and logging to improve the stability and reliability of the application.
+•Worked in Agile methodologies for incremental development to deliver better applications and used Jira and Git as version control and tracking units.
+•Environment: ReactJS, Redux, React Hooks, React Native, Redux-Saga, Thunk, Angular, Vue, JWT, Typescript, Javascript, HTML5/CSS3, Ajax, Bootstrap, Github, Gitlab, Jasmine, MongoDB, SQL, NodeJS, ExpressJS, Agile.
 </p>
 
 <h3>Frontend Developer</h3>
-<p>Giovvani</p>
+<p> - Pratum</p>
 <p>Jul 2013 – Jun 2015</p>
 <p>
-•Worked as a lead UI/UX developer for the Shopify project and collaborated with the product owner, marketing team, and designer to clarify requirements.
-•Developed company website with Figma design with liquid on online & offline Editor.
-•Optimized website performance, and Shopify SEO.
-•Built a custom Shopify App interacting with third party APIs such as Klaviyo.
+•Designed, Developed an internal management system using HTML, CSS, JSON, Javascript, jQuery, Bootstrap, and Ajax, PHP from scratch.
+•Worked closely with our business product owners on an agile team to fully understand requirements, provide feedback, and request clarification as needed.
+•Executed the SEO project single handily in Agile. Involved in requirement and analysis with the clients plus developing, enhancing & testing the application using Javascript, CMS tool, TFS, HTML5, and CSS3.
+•Integrated MongoDB for lifetime backend database storage across multiple clients and developed sorting algorithms for adding and updating thousands of requests at a time. 
+•Participated in team meetings with the remote team and corporate clients to understand the needs of a new implementation. Participated in daily team meetings and scrum meetings.
 </p>
 
-<h3>Frontend Developer</h3>
-<p>Piicked</p>
-<p>Jan 2012 – May 2013</p>
-<p>
-•Developed the company website from designing mockups to the deployment stage based on the expected user experience and business logic brainstormed with the CEO/CTO.
-•Utilized React to build a stable, maintainable, and responsive single-page application (SPA). Implemented Redux into the web app for state management.
-•Collaborated with designers to create clean interfaces and simple, intuitive interactions and experiences for the users.
-•Designed and implemented HTML email templates and newsletters for marketing campaigns.
-•Contribute with the team on product roadmap discussions.
-</p>
 <p></p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
