@@ -13,8 +13,8 @@
 
 <h2>WORK EXPERIENCE</h2>
 <h3>Senior Full Stack Engineer</h3>
-<p> - Albet </p>
-<p>Jul 2020 – Mar 2023</p> 
+<p> - Henry </p>
+<p>Jul 2021 – Mar 2023</p> 
 <p>
 •Built and maintained large-scale applications using ReactJS, Angular, Vue, Node/ExpressJS, Laravel, MySQL, and MongoDB from scratch resulting in a 20% increase in application productivity and a 15% increase in conversion rates.
 •Led a team of 5 developers in delivering several high-visibility projects, including a mobile-first redesign of the website and a real-time product customization tool.
@@ -23,8 +23,8 @@
 </p>
 
 <h3>Senior Full Stack Engineer</h3>
-<p> - Axim</p>
-<p>Jul 2017 – Jun 2020</p>
+<p> - COMPUVISION</p>
+<p>Jul 2019 – Jun 2021</p>
 <p>
 •Developed and maintained e-commerce & healthcare platform using React, Angular, NodeJS, MySQL, and MongoDB.
 •Collaborated with a team of 10 developers to deliver the project on time and within budget, while ensuring high quality and maintainability.
@@ -34,8 +34,8 @@
 </p>
 
 <h3>Frontend Developer</h3>
-<p> - Pratum</p>
-<p>Jul 2013 – Jun 2015</p>
+<p> - Pixlee TurnTo</p>
+<p>Jul 2017 – Jun 2019</p>
 <p>
 •Designed, Developed an internal management system using HTML, CSS, JSON, Javascript, jQuery, Bootstrap, and Ajax, PHP from scratch.
 •Worked closely with our business product owners on an agile team to fully understand requirements, provide feedback, and request clarification as needed.
