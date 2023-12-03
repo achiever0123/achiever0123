@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-13-722653.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ionic-3628265.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ionic-3628265-3031958.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
