@@ -41,6 +41,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rust-3521686.png" width="100"></td>
   </tr>
 </table>
 
