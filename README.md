@@ -14,8 +14,6 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-13-722653.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ionic-3628265-3031958.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
@@ -24,6 +22,8 @@
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-13-722653.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ionic-3628265-3031958.png" width="200"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
@@ -41,7 +41,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rust-3521686.png" width="100"></td>
   </tr>
 </table>
 
