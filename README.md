@@ -9,7 +9,7 @@
 
 
 <h2>SUMMARY</h2>
-<p>Self-motivated Full Stack developer with 10 years of experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Experience includes collaborating in team-driven environments to create high-performance web applications that customers and businesses love.</p>
+<p>Self-motivated Full Stack developer with hands on experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Experience includes collaborating in team-driven environments to create high-performance web applications that customers and businesses love.</p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
 <table>
