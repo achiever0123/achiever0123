@@ -14,7 +14,7 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-60.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-60-1174953.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
