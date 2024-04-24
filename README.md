@@ -14,7 +14,7 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭s</h2>
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-60-1174953.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="200"></td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/free-vaadin-444330.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
@@ -26,7 +26,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-60-1174953.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-drupal-20-1175225.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-c-9305877-7694076.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
